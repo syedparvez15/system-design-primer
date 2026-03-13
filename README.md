@@ -1837,3 +1837,21 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
     http://creativecommons.org/licenses/by/4.0/
+
+    ## Personal Notes
+
+### Caching
+Caching reduces database load and improves response time.
+
+Common strategies:
+- Redis caching
+- Application level caching
+- CDN caching
+
+### Load Balancing
+Load balancing distributes traffic across multiple servers.
+
+Common techniques:
+- Round robin
+- Least connections
+- IP hash
